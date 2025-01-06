@@ -1,0 +1,1554 @@
+---
+title: Trauma-Informed Principles and Practices
+subtitle: Cultivating well-being, safety, and education in the museum setting
+format:
+  clean-revealjs:
+    self-contained: true
+    touch: true
+    mouse-wheel: true
+    navigation-mode: linear
+    controls: true
+    controls-layout: bottom-right
+    slide-number: false
+
+html-math-method:
+  method: mathjax
+  url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+author:
+  - name: Ross Laird
+    email: ross@rosslaird.com
+date: last-modified
+bibliography: refs.bib
+---
+
+
+# Reminders / Rappels {background-color="#40666e"}
+
+## Difficult Subjects / Sujets difficiles
+::: {.panel-tabset group="language"}
+### English {.smaller}
+- Please take care of yourself
+- You decide how deep to go
+- If you need a break, take one
+- You may (or may not) have strong reactions
+- Your reactions are unique to you
+- It’s OK to be emotional
+- If you need help, ask a person you trust
+- Participate and engage in your own way
+    - Learn and be safe
+
+### Français {.smaller}
+- Prends soin de toi
+- C'est toi qui décides jusqu'où aller
+- Si tu as besoin d'une pause, fais-en une
+- Tu peux (ou pas) avoir des réactions fortes
+- Tes réactions sont uniques à toi
+- C'est normal d'être émotif
+- Si tu as besoin d'aide, demande à une personne en qui tu as confiance
+- Participe et engage-toi à ta façon
+    - Apprends et sois en sécurité
+:::
+
+# Layers / Couches  {background-color="#40666e"}
+
+## Where it all begins / Là où tout commence
+
+::: {.panel-tabset group="language"}
+### Childhood
+- human evolution
+- systems (gender, groups, identities)
+- history (place, belonging, migration)
+- culture(s)
+- family norms, values and behaviours
+
+### Enfance
+- évolution humaine
+- systèmes (genre, groupes, identités)
+- histoire (lieu, appartenance, migration)
+- culture(s)
+- normes, valeurs et comportements familiaux
+:::
+
+## Childhood Adversity / Adversité de l'enfance
+::: {.panel-tabset group="language"}
+### English
+- abuse or neglect
+    - emotional, physical, bullying
+- sexual abuse
+- household substance use
+- household mental illness
+- household suicidal thoughts/behaviours
+- intimate partner violence or domestic violence
+- family divorce or separation
+- natural disasters & climate change
+- refugee, wartime, or terrorism experience
+
+### Français {.smaller}
+- abus ou négligence
+    - psychologique, physique, harcèlement
+- violence sexuelle
+- consommation de substances au sein du ménage
+- maladie mentale au sein du ménage
+- pensées/comportements suicidaires au sein du ménage
+- violence conjugale ou domestique
+- divorce ou séparation familiale
+- catastrophes naturelles et changement climatique
+- expérience de réfugié, de guerre ou de terrorisme
+:::
+
+## Canada
+:::{.callout-warning}
+### Childhood Adversity Prevalance / Prévalence de l'adversité dans l'enfance
+- [62% > 1 ACE]{.alert}
+- 35% > 2 ACE
+- 16% > 4 ACE
+:::
+
+## Reactions / Réactions
+::: {.panel-tabset group="language"}
+### Trauma
+- Evolutionary impulses toward safety
+    - Flight
+    - Freeze
+    - Orient
+    - Fight
+
+- Much more powerful than conscious choice or action
+
+:::{.callout-warning}
+### Post-traumatic Stress Disorder
+Canada: 5% PTSD diagnosis, 8% probable PTSD, 64% PTSD exposure
+:::
+
+### Traumatisme
+- Impulsions évolutionnaires vers la sécurité
+    - fuite
+    - gel
+    - orientation
+    - combat
+
+- Bien plus puissant qu'un choix ou une action consciente
+
+:::{.callout-warning}
+### Trouble de stress post-traumatique
+Canada : 5 % de diagnostic de TSPT, 8 % de TSPT probable, 64 % d'exposition au TSPT
+:::
+:::
+
+## Patterns / Motifs
+::: {.panel-tabset group="language"}
+### Mental Illness
+- Dissociation
+- Depression
+- Anxiety
+- Anger
+
+:::{.callout-warning}
+## Mental Health Snapshot
+- 18-25% (+), 50%+ unreported, 37%+ unmet needs
+- Anxiety: 2x+ (2012-22)
+- 24% loneliness
+::::
+
+### Maladie mentale
+- Dissociation
+- Dépression
+- Anxiété
+- Colère
+
+:::{.callout-warning}
+## Instantané de la santé mentale
+- 18-25 % (+), 50 %+ non signalés, 37 %+ besoins non satisfaits
+- Anxiété : 2x+ (2012-22)
+- 24 % de solitude
+:::
+:::
+
+## Conséquences / Conséquences
+::: {.panel-tabset group="language"}
+### Addictions
+- Hallucinogens
+- Opioids
+- Stimulants
+- Gambling
+- Alcohol
+- Gaming
+- Cannabis
+- Food
+- Screens…
+
+### Dépendances
+- Hallucinogènes
+- Opioïdes
+- Stimulants
+- Jeux d'argent
+- Alcool
+- Jeux vidéo
+- Cannabis
+- Nourriture
+- Écrans
+
+:::
+
+## Addictions Prevalance / Prévalence des addictions
+::: {.panel-tabset group="language"}
+
+### English
+:::{.callout-warning}
+## Addictions Prevalance
+- [> 20% of Canadians]{.alert} meet the threshold for addiction during their lifetime
+- Mostly alcohol (18.1%); habitual and/or binge drinking
+- Overdose opioid deaths mostly (72%) in males 30-39
+- Overdose leading cause of death among youth 10-18 in BC
+- Almost 50,000 overdose deaths in Canada since 2016 (more than all other accidental death causes combined)
+:::
+
+### Français
+:::{.callout-warning}
+## Prévalence des addictions
+- [> 20 % des Canadiens]{.alert} atteignent le seuil de dépendance au cours de leur vie
+- Principalement l'alcool (18,1 %) ; consommation habituelle et/ou excessive d'alcool
+- Décès par surdose d'opioïdes principalement (72 %) chez les hommes de 30 à 39 ans
+- La surdose est la principale cause de décès chez les jeunes de 10 à 18 ans en Colombie-Britannique
+- Près de 50 000 décès par surdose au Canada depuis 2016 (plus que toutes les autres causes de décès accidentels combinées)
+:::
+
+:::
+
+## Dynamics / Dynamique
+::: {.panel-tabset group="language"}
+### Instinctive Coping
+- Childhood legacies form the context
+- Traumas amplify the vulnerability
+- Mental illness creates the pattern of behaviours
+- Addiction fuels the system (for many people)
+- Unmanaged (_dysregulated_) [feelings]{.alert} create moments of intensity
+
+### Gestion instinctive
+- Les héritages de l'enfance forment le contexte
+- Les traumatismes amplifient la vulnérabilité
+- La maladie mentale crée le modèle de comportement
+- La dépendance alimente le système (pour beaucoup de gens)
+- [Les émotions]{.alert} non gérés (_dysrégulés_) créent des moments d’intensité
+
+:::
+
+# Feelings / Les émotions {background-color="#40666e"}
+
+## Feelings are not thoughts / Les émotions ne sont pas des pensées
+::: {.panel-tabset group="language"}
+### English
+- Feelings are sometimes irrational
+- Rationality cannot control feelings
+- Everyone has multiple feelings at the same time
+- Feelings control human behavior
+
+### Français
+- Les émotions sont parfois irrationnelles
+- La rationalité ne peut pas contrôler les émotions
+- Tout le monde ressent plusieurs émotions à la fois
+- Les émotions contrôlent le comportement humain
+:::
+
+## Feelings are complex / Les émotions sont complexes
+::: {.panel-tabset group="language"}
+### English
+- The deep influence of family, peers, gender, culture, and other factors results in many feelings being unconscious or subliminal
+- Everyone is different, and there is no standard way to define or describe feelings
+- Models of psychology (and neurology) are always limited and do not describe what is really going on with feelings (or anything else)
+
+### Français
+- L'influence profonde de la famille, des pairs, du genre, de la culture et d'autres facteurs rend de nombreuses émotions inconscientes ou subliminales
+- Tout le monde est différent, et il n'existe pas de façon standard de définir ou de décrire les émotions
+- Les modèles de psychologie (et de neurologie) sont toujours limités et ne décrivent pas vraiment ce qui se passe avec les émotions (ou autre chose)
+:::
+
+## Feelings arise from the layers of experience / Les émotions émergent des couches de l'expérience
+::: {.panel-tabset group="language"}
+### English
+- Resonance is the context (learned behaviours and adverse experiences in childhood and adolescence)
+- Trauma is the crucible (locked responses to unresolved challenging and threatening situations)
+- Mental illness is the adaptation (coping and symptom management in response to the above two items)
+- Addiction is the fuel (ongoing symptom management in the absence of pathways of healing)
+
+### Français
+- La résonance est le contexte (comportements appris et expériences négatives vécues dans l'enfance et l'adolescence)
+- Le traumatisme est le creuset (réactions figées face à des situations difficiles et menaçantes non résolues)
+- La maladie mentale est l'adaptation (gestion des symptômes et des mécanismes d'adaptation en réponse aux deux points précédents)
+- La dépendance est le carburant (gestion continue des symptômes en l'absence de voies de guérison)
+:::
+
+## When feelings require attention / Quand les émotions nécessitent une attention
+::: {.panel-tabset group="language"}
+### English
+- Absence or unawareness of feelings
+- Persistent or cyclic uncomfortable feelings
+- Situational feelings that are hard to control
+- Feelings that embody long-standing harm or loss
+
+### Français
+- Absence ou méconnaissance des émotions
+- Émotions inconfortables persistantes ou cycliques
+- Émotions situationnelles difficiles à contrôler
+- Émotions incarnant des préjudices ou des pertes durables
+:::
+
+## Difficult feelings / Émotions difficiles
+::: {.panel-tabset group="language"}
+
+### English
+:::: {.columns}
+::: {.column width="50%"}
+- Guilt and blame
+- Grief and loss
+- Self-importance and insecurity
+- Doubt and vulnerability
+- Loneliness and isolation
+:::
+::: {.column width="50%"}
+- Shame and self-loathing
+- Depression and despair
+- Obsession and compulsion
+- Anger and righteousness
+- Fear and anxiety
+:::
+::::
+
+### Français
+:::: {.columns}
+::: {.column width="50%"}
+- Culpabilité et blâme
+- Chagrin et perte
+- Orgueil et insécurité
+- Doute et vulnérabilité
+- Solitude et isolement
+:::
+::: {.column width="50%"}
+- Honte et haine de soi
+- Dépression et désespoir
+- Obsession et compulsion
+- Colère et sentiment de justice
+- Peur et anxiété
+:::
+::::
+:::
+
+## Resolve what you can / Résolvez ce que vous pouvez
+::: {.panel-tabset group="language"}
+### English
+Your ability to assist someone else who is in emotional distress mostly depends on how well you understand your own emotional challenges and can manage your own reactivity.
+
+Resolving difficult feelings does not mean that they go away. It means that your relationship with them shifts from being adversarial to companionable.
+
+### Français
+Votre capacité à aider une personne en détresse émotionnelle dépend en grande partie de votre compréhension de vos propres défis émotionnels et de votre capacité à gérer vos réactions.
+
+Résoudre des émotions difficiles ne signifie pas qu'elles disparaissent. Cela signifie que votre relation avec elles passe d'une posture d'adversité à une posture de compagnonnage.
+:::
+
+# Start with Yourself / Commencez par vous-même{background-color="#40666e"}
+
+## To assist others, start with yourself / Pour aider les autres, commencez par vous-même
+::: {.panel-tabset group="language"}
+### English
+Becoming aware of our own reactivity, managing it, understanding where it comes from, what it means, and what to do about it — these are all aspects of self-awareness, which is a lifelong odyssey for everyone.
+
+### Français
+Prendre conscience de nos propres réactions, les gérer, comprendre d'où elles viennent, ce qu'elles signifient et ce qu'il faut en faire — ce sont là tous des aspects de la conscience de soi, qui est une odyssée de toute une vie pour chacun.
+:::
+
+## Avoid barriers of the listener / Évitez les obstacles de l'auditeur
+::: {.panel-tabset group="language"}
+### English
+- Lack of awareness of the importance of feelings
+- Denial of feelings about which the listener is uncomfortable
+- Rejection of feelings due to judgments and listener discomfort
+- Reactivity due to resonance with the life story of the listener
+- Discomfort with messiness and the normal turbulence of feelings
+
+### Français
+- Manque de conscience de l'importance des émotions
+- Déni des émotions qui mettent l'auditeur mal à l'aise
+- Rejet des émotions en raison de jugements et d'un inconfort de l'auditeur
+- Réactivité due à une résonance avec l'histoire de vie de l'auditeur
+- Malaise face au désordre et à la turbulence normale des émotions
+:::
+
+## Avoid common pitfalls / Évitez les pièges courants
+::: {.panel-tabset group="language"}
+### English
+- Distraction, rushing, inattentiveness, impatience, speediness
+- Giving advice (the most common and most challenging hurdle of all, for most people)
+- Providing solutions (similar to above)
+- Convincing (making an argument)
+
+### Français
+- Distraction, précipitation, inattention, impatience, empressement
+- Donner des conseils (l'obstacle le plus courant et le plus difficile pour la plupart des gens)
+- Fournir des solutions (similaire au point précédent)
+- Convaincre (faire valoir un argument)
+:::
+
+## Be aware of biases / Soyez conscient des biais
+::: {.panel-tabset group="language"}
+### English
+- Childhood and family norms and behaviours
+- Cultural norms that are often invisible and unacknowledged
+- Judgements due to values and life context (these are normal but must be set aside)
+
+### Français
+- Normes et comportements de l'enfance et de la famille
+- Normes culturelles souvent invisibles et non reconnues
+- Jugements liés aux valeurs et au contexte de vie (ils sont normaux mais doivent être mis de côté)
+:::
+
+## Practice presence and authenticity / Pratiquez la présence et l'authenticité
+::: {.panel-tabset group="language"}
+### English
+Most people become emotionally distressed when there is a contrast between what someone says and what they do. In situations where emotions might already be amplified, consistency between words, body language, and actions is crucial.
+
+Presence is an _active_ skill.
+
+### Français
+La plupart des gens deviennent émotionnellement perturbés lorsqu'il y a un contraste entre ce que quelqu'un dit et ce qu'il fait. Dans des situations où les émotions pourraient déjà être amplifiées, la cohérence entre les mots, le langage corporel et les actions est cruciale.
+
+La présence est une compétence _active_.
+:::
+
+## Seek neutrality / Cherchez la neutralité
+::: {.panel-tabset group="language"}
+### English
+- People are generally very skilled at sensing others who listen well and who are genuinely respectful and non-judgemental
+- These are deep skills that require ongoing practice, especially when others do not share our values or perspectives
+- The best listeners are able to suspend their own biases and judgements, which first requires awareness of biases and judgements (which is consistently difficult for everyone)
+
+### Français
+- Les gens sont généralement très doués pour détecter les personnes qui écoutent bien et qui sont véritablement respectueuses et non-jugeantes
+- Ce sont des compétences profondes qui nécessitent une pratique continue, surtout lorsque les autres ne partagent pas nos valeurs ou nos perspectives
+- Les meilleurs auditeurs sont capables de suspendre leurs propres biais et jugements, ce qui nécessite d'abord une prise de conscience des biais et jugements (ce qui est toujours difficile pour tout le monde)
+:::
+
+## Practice grounding / Pratiquez l'ancrage
+::: {.panel-tabset group="language"}
+### English
+- Practices that cultivate body awareness are good for us in a variety of ways but especially in situations of heightened emotion with others
+- Simply bringing attention to our various sensations is an excellent way of becoming more emotionally aware (since emotions are sensations)
+- The best way to practice grounding is the way that works for you: walking, working in the garden, singing, playing a musical instrument, doing yoga, running, climbing (these all have research to support their positive contribution to well-being)
+
+### Français
+- Les pratiques qui cultivent la conscience corporelle sont bénéfiques de multiples façons, mais surtout dans des situations d'émotions intenses avec les autres
+- Porter simplement attention à nos diverses sensations est une excellente façon de devenir plus conscient émotionnellement (car les émotions sont des sensations)
+- La meilleure façon de pratiquer l'ancrage est celle qui fonctionne pour vous : marcher, jardiner, chanter, jouer d'un instrument de musique, faire du yoga, courir, grimper (toutes ces activités ont des recherches pour soutenir leur contribution positive au bien-être)
+:::
+
+## Be open and available / Soyez ouvert et disponible
+::: {.panel-tabset group="language"}
+### English
+- Body language is the main way that we indicate our openness to others
+- We are acutely sensitive to the small signals that others send to us about their availability for conversation or assistance
+- When we practice presence, grounding, authenticity, and non-judgement, we tend to signal that we are open, approachable, positive, and safe
+
+### Français
+- Le langage corporel est le principal moyen par lequel nous indiquons notre ouverture aux autres
+- Nous sommes extrêmement sensibles aux petits signaux que les autres nous envoient sur leur disponibilité pour une conversation ou une aide
+- Lorsque nous pratiquons la présence, l'ancrage, l'authenticité et l'absence de jugement, nous avons tendance à signaler que nous sommes ouverts, accessibles, positifs et sécurisants
+:::
+
+## Breathe with awareness / Respirez en pleine conscience
+::: {.panel-tabset group="language"}
+### English
+- One of the simplest and most powerful body awareness practices involves becoming aware of breathing: the rise and fall of the breath
+- Bringing attention to breathing often slows it down, which tends to promote relaxation, grounding, and presence
+
+### Français
+- L'une des pratiques les plus simples et les plus puissantes pour la conscience corporelle consiste à prendre conscience de sa respiration : le rythme de la montée et de la descente du souffle
+- Porter attention à la respiration ralentit souvent celle-ci, ce qui tend à favoriser la relaxation, l'ancrage et la présence
+:::
+
+## Breath practices: [caution]{.alert} / Pratiques de respiration : [prudence]{.alert}
+::: {.panel-tabset group="language"}
+### English
+Bringing attention to breathing can activate strong emotions in people who are struggling with unresolved emotional challenges. This happens because bringing attention to breathing also brings awareness of the body, and the body is where our unresolved emotions reside.
+
+The same is true of mindfulness practices in general.
+
+### Français
+Porter attention à la respiration peut activer des émotions fortes chez les personnes qui luttent contre des défis émotionnels non résolus. Cela se produit parce que l'attention à la respiration apporte également une conscience du corps, et c'est dans le corps que résident nos émotions non résolues.
+
+Il en va de même pour les pratiques de pleine conscience en général.
+:::
+
+## Know when to get help / Sachez quand demander de l'aide
+::: {.panel-tabset group="language"}
+### English
+- Emotional situations can sometimes become unmanageable by one person — but it can be tough to notice the point at which taking action would prevent this from happening
+- Often that moment is earlier than we expect and requires assistance from others
+- Learning to watch for this moment is a matter of practice (and, usually, learning by trial and error)
+- Generally it’s best to get help before you think you need it — before you become emotionally activated by interacting with someone who is themselves activated
+
+### Français
+- Les situations émotionnelles peuvent parfois devenir ingérables par une seule personne — mais il peut être difficile de remarquer le moment où agir éviterait que cela se produise
+- Souvent, ce moment arrive plus tôt qu'on ne le pense et nécessite l'aide d'autres personnes
+- Apprendre à repérer ce moment demande de la pratique (et, généralement, de l'apprentissage par essais et erreurs)
+- En général, il vaut mieux demander de l'aide avant de penser en avoir besoin — avant de devenir émotionnellement activé en interagissant avec quelqu'un qui l'est lui-même
+:::
+
+# Skill Development / Développement des compétences{background-color="#40666e"}
+
+## Key considerations / Considérations clés
+::: {.panel-tabset group="language"}
+### English
+- Genuineness and authenticity: being myself, here, right now
+- Respect: we are different, and we can try to understand one another
+- Mutual connection: to be connected to others, and the wider world around us, is the essence of being human
+- Emotional and physical safety: we can talk and share without doing harm to one another or those around us
+- Doing all of the above, at the same time, is a good foundation for effective listening
+
+### Français
+- Sincérité et authenticité : être moi-même, ici, maintenant
+- Respect : nous sommes différents, et nous pouvons essayer de nous comprendre
+- Connexion mutuelle : être connecté aux autres et au monde plus vaste qui nous entoure est l'essence de l'humanité
+- Sécurité émotionnelle et physique : nous pouvons parler et partager sans nous faire de mal les uns aux autres ni aux personnes qui nous entourent
+- Faire tout cela en même temps constitue une bonne base pour une écoute efficace
+:::
+
+## Listening and Responding / Écouter et répondre
+::: {.panel-tabset group="language"}
+### English
+- Observer, listener, sharer: 5 minutes each (observer keeps time)
+- Memory or moment: small but interesting, with feelings
+
+### Français
+- Observateur, auditeur, narrateur : 5 minutes chacun (l'observateur garde le temps)
+- Souvenir ou moment : petit mais intéressant, avec des émotions
+:::
+
+## Rules / Règles
+::: {.panel-tabset group="language"}
+### English
+- [No questions]{.alert} from the listener
+- [No advice]{.alert} from the listener
+- [No interruptions]{.alert} from the listener or observer
+- The observer remains silent
+- The observer stops the conversation at 5 minutes
+- The sharer must allow time for the listener to respond (ideally, about once per minute)
+
+### Français
+- [Pas de questions]{.alert} de la part de l'auditeur
+- [Pas de conseils]{.alert} de la part de l'auditeur
+- [Pas d'interruptions]{.alert} de la part de l'auditeur ou de l'observateur
+- L'observateur reste silencieux
+- L'observateur arrête la conversation au bout de 5 minutes
+- Le narrateur doit laisser du temps à l'auditeur pour répondre (idéalement, environ une fois par minute)
+:::
+
+## The sharer speaks / Le narrateur parle
+::: {.panel-tabset group="language"}
+### English
+Try to sense feelings in the body, as sensations.
+
+Remember to give time for the listener to respond.
+
+Pause, sense the feelings, take a breath, then...
+
+- I feel...
+- It's like...
+- I have the sense that...
+
+### Français
+Essayez de ressentir les émotions dans le corps, comme des sensations.
+
+N'oubliez pas de laisser du temps à l'auditeur pour répondre.
+
+Faites une pause, ressentez les émotions, prenez une respiration, puis...
+
+- Je ressens...
+- C'est comme...
+- J'ai l'impression que...
+:::
+
+## The listener responds / L'auditeur répond
+::: {.panel-tabset group="language"}
+### English
+Pause, sense the feelings, take a breath, then:
+
+- It sounds like...
+- It seems like...
+- I notice...
+- I get the sense that...
+- I'm curious...
+- If I understand you correctly, you are feeling...
+- So, it's like you feel... (use a metaphor)
+
+### Français
+Faites une pause, ressentez les émotions, prenez une respiration, puis :
+
+- Cela ressemble à...
+- Il semble que...
+- Je remarque...
+- J'ai l'impression que...
+- Je suis curieux...
+- Si je vous comprends bien, vous ressentez...
+- Donc, c'est comme si vous ressentiez... (utilisez une métaphore)
+:::
+
+## Tips for the listener / Conseils pour l'auditeur
+::: {.panel-tabset group="language"}
+### English
+- Try to feel the feelings of the other person in your own body
+- Don't worry about getting the feeling wrong
+- Don't worry about sounding formulaic
+- Repeat the feeling words you hear from the sharer or use other feeling words
+- Keep your responses short: no more than two sentences
+- Aim for three to five responses (in five minutes)
+
+### Français
+- Essayez de ressentir les émotions de l'autre personne dans votre propre corps
+- Ne vous inquiétez pas de mal interpréter l'émotion
+- Ne vous inquiétez pas de sembler mécanique
+- Répétez les mots exprimant des émotions que vous entendez du narrateur ou utilisez d'autres mots d'émotion
+- Gardez vos réponses courtes : pas plus de deux phrases
+- Visez trois à cinq réponses (en cinq minutes)
+:::
+
+## On feedback from experts / À propos des retours d'experts
+::: {.panel-tabset group="language"}
+### English
+When learning a new skill, most people want direct instruction about what to do (or say). However, a large body of research shows that new skills are learned faster and more effectively when learners are encouraged to explore and experiment in their own unique ways. The same research shows that feedback from experts can be harmful as well as helpful, and needs to be timed effectively in the context of the learning experience.
+
+### Français
+Lorsqu'on apprend une nouvelle compétence, la plupart des gens souhaitent des instructions directes sur ce qu'il faut faire (ou dire). Cependant, de nombreuses recherches montrent que les nouvelles compétences s'acquièrent plus rapidement et plus efficacement lorsque les apprenants sont encouragés à explorer et expérimenter de manière unique. Les mêmes recherches montrent que les retours des experts peuvent être autant nuisibles que bénéfiques et doivent être chronométrés de manière appropriée dans le contexte de l'expérience d'apprentissage.
+:::
+
+## Discussion / Discussion
+::: {.panel-tabset group="language"}
+### English
+- 5 minutes
+    - [No suggestions, no advice]{.alert}.
+
+Positive feedback only: what went _well_.
+
+- How did the sharer feel?
+- How did the listener feel?
+- What did the observer notice?
+
+### Français
+- 5 minutes
+    - [Pas de suggestions, pas de conseils]{.alert}.
+
+Retour positif uniquement : ce qui s'est _bien_ passé.
+
+- Comment le narrateur s'est-il senti ?
+- Comment l'auditeur s'est-il senti ?
+- Qu'a remarqué l'observateur ?
+:::
+
+## Switch roles and go again / Changez de rôle et recommencez
+::: {.panel-tabset group="language"}
+### English
+- 5 minutes
+    - Sharer becomes observer (timekeeper)
+    - Listener becomes sharer
+    - Observer becomes listener
+
+### Français
+- 5 minutes
+    - Le narrateur devient observateur (chronométreur)
+    - L'auditeur devient narrateur
+    - L'observateur devient auditeur
+:::
+
+# Empathy  / Empathie {background-color="#40666e"}
+
+## Empathy / Empathie
+::: {.panel-tabset group="language"}
+### English
+#### How to think about empathy
+- Sympathy, empathy, compassion, and the self
+- Empathy is boundaried (and can be misused)
+- Empathy is cognitively challenging (and can lead to empathy fatigue)
+- Empathy plays a foundational role in human [evolution and society](https://www.scientificamerican.com/article/being-empathetic-is-easier-when-everyones-doing-it/)
+- Individual empathy practice promotes greater empathy in a community
+- During a time of reflexive judgement and polarization, empathy is more necessary than ever
+
+### Français
+#### Comment penser à l'empathie
+- Sympathie, empathie, compassion et soi
+- L'empathie a des limites (et peut être mal utilisée)
+- L'empathie est cognitivement exigeante (et peut mener à une fatigue empathique)
+- L'empathie joue un rôle fondamental dans [l'évolution et la société humaine](https://www.scientificamerican.com/article/being-empathetic-is-easier-when-everyones-doing-it/)
+- La pratique individuelle de l'empathie favorise une plus grande empathie au sein d'une communauté
+- En période de jugement réflexif et de polarisation, l'empathie est plus nécessaire que jamais
+:::
+
+## Empathy is a skill / L'empathie est une compétence
+::: {.panel-tabset group="language"}
+### English
+- Being seen and heard, without judgment
+- Reciprocity: feel and reflect
+- Noticing (not changing) feelings
+- Cultivating belonging, trust, and safety
+
+### Français
+- Être vu et entendu, sans jugement
+- Réciprocité : ressentir et refléter
+- Remarquer (sans changer) les émotions
+- Cultiver l'appartenance, la confiance et la sécurité
+:::
+
+## Empathy enables the clear channel / L'empathie permet un canal clair
+::: {.panel-tabset group="language"}
+### English
+- A foundation of mutual connection
+- Getting yourself (judgements, advice, solutions) out of the way
+- Safe containment for locked responses
+- Empathy is _active_
+
+### Français
+- Une base de connexion mutuelle
+- Mettre de côté ses jugements, conseils, solutions
+- Contenance sécurisante pour des réponses figées
+- L'empathie est _active_
+:::
+
+## Listening and advocacy / Écoute et plaidoyer
+::: {.panel-tabset group="language"}
+### English
+There is a potential harm incurred (to you, and to others) if you never speak up to advocate.
+
+However, in situations of emotional distress, a listener who immediately pivots to advocacy can cause harm by removing or minimizing emotional processing (which is foundational to healing).
+
+In most situations, it's best to lead with empathy. Solutions and strategies come later.
+
+### Français
+Il peut y avoir un risque de préjudice (pour vous et pour les autres) si vous ne prenez jamais la parole pour défendre.
+
+Cependant, dans des situations de détresse émotionnelle, un auditeur qui se tourne immédiatement vers le plaidoyer peut causer du tort en supprimant ou en minimisant le traitement émotionnel (qui est fondamental pour la guérison).
+
+Dans la plupart des situations, il est préférable de commencer par l'empathie. Les solutions et stratégies viennent ensuite.
+:::
+
+## Barriers to empathy / Obstacles à l'empathie
+::: {.panel-tabset group="language"}
+### English
+- Distraction and/or rushing
+- Activation of the listener
+- Judgements (must be _set aside_)
+- Non-neutrality (advocacy)
+- Advice and solutions from the listener
+- Questions from the listener
+
+### Français
+- Distraction et/ou précipitation
+- Activation de l'auditeur
+- Jugements (doivent être _mis de côté_)
+- Non-neutralité (plaidoyer)
+- Conseils et solutions de la part de l'auditeur
+- Questions de la part de l'auditeur
+:::
+
+## Practice and remember / Pratiquez et souvenez-vous {#sec-practice}
+::: {.panel-tabset group="language"}
+### English
+- Set your own issues aside
+- Suspend your judgements
+- Stay neutral
+- Your own activation determines the outcome
+
+### Français
+- Mettez de côté vos propres problèmes
+- Suspendez vos jugements
+- Restez neutre
+- Votre propre activation détermine le résultat
+:::
+
+## Non-verbal communication / Communication non verbale
+::: {.panel-tabset group="language"}
+### English
+- Grounding (presence)
+- Centering (non-judgement)
+- Openness (safety)
+- Boundaries (ethical dimensions: roles, confidentiality, etc.)
+
+### Français
+- Ancrage (présence)
+- Recentrement (absence de jugement)
+- Ouverture (sécurité)
+- Limites (dimensions éthiques : rôles, confidentialité, etc.)
+:::
+
+## Know when to engage / Sachez quand intervenir
+::: {.panel-tabset group="language"}
+### English
+- Strong emotion is normal and often healthy
+- Strong emotion can be a signal of distress and trauma
+- A person who can express strong emotions but also bring themselves back to emotional safety and calm is typically safe and does not need help
+- A person who is unable to contain or manage emotional activation needs immediate help
+- Knowing the difference between these two scenarios requires much practice and self-awareness
+
+### Français
+- Une forte émotion est normale et souvent saine
+- Une forte émotion peut être un signe de détresse et de traumatisme
+- Une personne capable d'exprimer de fortes émotions tout en retrouvant une sécurité émotionnelle et un calme est généralement en sécurité et n'a pas besoin d'aide
+- Une personne incapable de contenir ou de gérer une activation émotionnelle nécessite une aide immédiate
+- Faire la différence entre ces deux scénarios demande beaucoup de pratique et de conscience de soi
+:::
+
+## Engaging in conversation / Engager la conversation
+::: {.panel-tabset group="language"}
+### English
+Authentic and empathetic conversation works best when we are able to be ourselves, use our own forms of language and speech, and feel comfortable with what we are saying.
+
+This does not mean that you should say anything you want. Rather, it means that whatever words you know, whatever styles of speech you use, have within them the possibility to be used in helpful and empathetic ways.
+
+### Français
+Une conversation authentique et empathique fonctionne mieux lorsque nous pouvons être nous-mêmes, utiliser nos propres formes de langage et de discours, et nous sentir à l'aise avec ce que nous disons.
+
+Cela ne signifie pas que vous devriez dire tout ce que vous voulez. Cela signifie plutôt que quels que soient les mots que vous connaissez, quels que soient les styles de discours que vous utilisez, ils peuvent être employés de manière utile et empathique.
+:::
+
+# Prompts / Amorces {background-color="#40666e"}
+
+## Prompts / Amorces
+::: {.panel-tabset group="language"}
+### English
+#### Scaffolding
+- Prompts provide conversational structure
+- Prompts have no definitive forms or styles and can be as varied as any types of speech
+- The function of a prompt is to open a space to focus on feelings
+
+### Français
+#### Structure
+- Les amorces fournissent une structure de conversation
+- Les amorces n'ont pas de formes ou de styles définis et peuvent être aussi variées que n'importe quel type de discours
+- La fonction d'une amorce est d'ouvrir un espace pour se concentrer sur les émotions
+:::
+
+## Self-awareness and conversation / Conscience de soi et conversation
+::: {.panel-tabset group="language"}
+### English
+- When we begin by noticing ourselves and our own emotional activation, we also become more capable of noticing the emotions of others
+- We should not try to label or assess the emotions of others; instead, we can simply acknowledge that others are having emotional reactions
+
+### Français
+- Lorsque nous commençons par remarquer nous-mêmes et notre propre activation émotionnelle, nous devenons également plus capables de remarquer les émotions des autres
+- Nous ne devrions pas essayer de nommer ou d'évaluer les émotions des autres ; nous pouvons simplement reconnaître que les autres ont des réactions émotionnelles
+:::
+
+## I notice... / Je remarque...
+::: {.panel-tabset group="language"}
+### English
+- Saying something like _I notice you are having a reaction_ is a simple and reasonable starting point for a conversation about emotions
+- Remember to use your own words
+- If others use their own words to define those emotions — _I’m sad, I’m angry, I’m bewildered_ — affirm those feelings
+
+### Français
+- Dire quelque chose comme _Je remarque que vous avez une réaction_ est un point de départ simple et raisonnable pour une conversation sur les émotions
+- N'oubliez pas d'utiliser vos propres mots
+- Si les autres utilisent leurs propres mots pour définir ces émotions — _Je suis triste, je suis en colère, je suis déconcerté_ — affirmez ces sentiments
+:::
+
+## Just checking in... / Juste vérifier...
+::: {.panel-tabset group="language"}
+### English
+- A simple and non-intrusive way of signaling that help is available
+- An open, friendly, non-judgmental statement that is very popular among counsellors and others who provide emotional help as the core of their professional work
+
+### Français
+- Une façon simple et non intrusive d'indiquer que de l'aide est disponible
+- Une déclaration ouverte, amicale et sans jugement, très populaire parmi les conseillers et les autres professionnels qui fournissent une aide émotionnelle au cœur de leur travail
+:::
+
+## Flow / Flux
+::: {.panel-tabset group="language"}
+### English
+- Combining _I’m just checking in_ with _I notice you are having a reaction_ is a good template for engaging with a person who is emotionally activated
+- It is not only — or even primarily — the words themselves that might be effective here, but rather the way in which they are delivered, and the timing of their delivery
+
+### Français
+- Combiner _Je vérifie simplement_ avec _Je remarque que vous avez une réaction_ est un bon modèle pour engager une personne émotionnellement activée
+- Ce ne sont pas seulement — ni même principalement — les mots eux-mêmes qui peuvent être efficaces ici, mais plutôt la manière dont ils sont prononcés et le moment de leur livraison
+:::
+
+## Do you need help? / Avez-vous besoin d'aide ?
+::: {.panel-tabset group="language"}
+### English
+- The focus of help should be on the person who might (or might not) need some emotionally-focused assistance or empathy
+- Try _not_ to emphasize your own feelings or reactions
+- The other person might ask about your feelings or reactions, but they are not relevant until that happens — and even then, they should not form the basis of the conversation
+- Keeping the focus on the other person is a deep skill that requires much practice
+
+### Français
+- L'aide doit se concentrer sur la personne qui pourrait (ou non) avoir besoin d'une assistance ou d'une empathie axée sur les émotions
+- Essayez de _ne pas_ insister sur vos propres sentiments ou réactions
+- L'autre personne pourrait vous interroger sur vos sentiments ou réactions, mais ils ne sont pas pertinents tant que cela n'arrive pas — et même alors, ils ne devraient pas constituer la base de la conversation
+- Garder l'accent sur l'autre personne est une compétence profonde qui nécessite beaucoup de pratique
+:::
+
+## Possibilities of wording / Possibilités de formulation
+::: {.panel-tabset group="language"}
+### English
+- Just checking in…
+- I notice…
+- It looks like…
+- It sounds like…
+- It seems like…
+- I'm curious...
+- Thought I would check in...
+
+### Français
+- Juste vérifier...
+- Je remarque...
+- Il semble que...
+- On dirait que...
+- Cela semble...
+- Je suis curieux...
+- Je pensais simplement vérifier...
+:::
+
+## Affirming feelings / Affirmer les émotions
+::: {.panel-tabset group="language"}
+### English
+- Try to affirm and name the feelings of the other person
+- Listen for the words they use to describe their feelings
+- Use the same feeling words in your reply, or use similar words that convey the same feeling
+- Try not to impose your own feelings or perspectives
+
+### Français
+- Essayez d'affirmer et de nommer les émotions de l'autre personne
+- Écoutez les mots qu'elle utilise pour décrire ses émotions
+- Utilisez les mêmes mots pour décrire les émotions dans votre réponse, ou utilisez des mots similaires qui expriment la même émotion
+- Essayez de ne pas imposer vos propres émotions ou perspectives
+:::
+
+## Skill development (1) / Développement des compétences (1)
+::: {.panel-tabset group="language"}
+### English
+- The larger set of counselling skills is embedded in this one skill of responding to feelings without trying to direct them
+- If a person says _I am angry_, one possible response is to simply say _Yes, I can see that you are angry_
+- _Help me understand what you're feeling_ is another simple and open approach to empathetic conversation
+
+### Français
+- L'ensemble plus large des compétences en counselling repose sur cette compétence unique de répondre aux émotions sans essayer de les diriger
+- Si une personne dit _Je suis en colère_, une réponse possible est simplement de dire _Oui, je vois que vous êtes en colère_
+- _Aidez-moi à comprendre ce que vous ressentez_ est une autre approche simple et ouverte à une conversation empathique
+- Les auditeurs expérimentés ont également tendance à inclure des gestes corporels, des postures variées et des mouvements de main
+:::
+
+## Skill development (2) / Développement des compétences (2)
+::: {.panel-tabset group="language"}
+### English
+- Skilled listeners also tend to include bodily gestures, varying postures, and hand movements
+- Skilled listeners also tend to use a lexicon of minimal encouragers: _hm, um, so, ah, aah, yeah, OK, huh_, etc. All of these have multiple variants and meanings.
+- It is not so much the words themselves but their delivery, and the body language, and the timing, that all matter a great deal
+- Much practice is required
+
+### Français
+- Les auditeurs expérimentés ont également tendance à utiliser un lexique d'encouragements minimaux : _hm, um, donc, ah, aah, ouais, OK, hein_, etc. Tous ces éléments ont des variantes et des significations multiples.
+- Ce n'est pas tant les mots eux-mêmes, mais leur livraison, leur langage corporel et leur timing qui comptent beaucoup
+- Beaucoup de pratique est nécessaire
+:::
+
+## What not to say (1) / Ce qu'il ne faut pas dire (1)
+::: {.panel-tabset group="language"}
+### English
+- Calm down
+- This is not the right place/time
+- I can’t help you
+- You are annoying/inappropriate
+- Why can’t you be like others?
+
+### Français
+- Calmez-vous
+- Ce n'est pas le bon endroit/moment
+- Je ne peux pas vous aider
+- Vous êtes agaçant/inapproprié
+- Pourquoi ne pouvez-vous pas être comme les autres ?
+:::
+
+## What not to say (2) / Ce qu'il ne faut pas dire (2)
+::: {.panel-tabset group="language"}
+### English
+- Why can’t you keep boundaries?
+- Maybe this is not for you
+- I won’t deal with you
+- It’s your fault (no, it’s yours, probably)
+- Yes, I am the only one who can help you
+
+### Français
+- Pourquoi ne pouvez-vous pas respecter les limites ?
+- Peut-être que ce n'est pas pour vous
+- Je ne vais pas vous gérer
+- C'est votre faute (non, probablement la vôtre)
+- Oui, je suis la seule personne qui peut vous aider
+:::
+
+
+## Practice / Pratique
+::: {.panel-tabset group="language"}
+### English
+[[Remember]{.button}](#sec-practice)
+
+- [No questions]{.alert} from the listener
+- [No advice]{.alert} from the listener
+- [No interruptions]{.alert} from the listener or observer
+
+### Français
+[[Souviens-toi]{.button}](#sec-practice)
+
+- [Pas de questions]{.alert} de la part de l'auditeur
+- [Pas de conseils]{.alert} de la part de l'auditeur
+- [Pas d'interruptions]{.alert} de la part de l'auditeur ou de l'observateur
+:::
+
+# Empathy and Self-awareness / Empathie et conscience de soi {background-color="#40666e"}
+
+## Empathy and Self-awareness / Empathie et conscience de soi
+::: {.panel-tabset group="language"}
+### English
+#### Self-awareness challenges
+- We get activated by something in the layers of our personal history
+- Activation is often unconscious and involves dynamics between the layers
+- When activated, we are driven by unconscious and defensive behaviors (this is where we get into trouble)
+
+### Français
+#### Défis de la conscience de soi
+- Nous sommes activés par quelque chose dans les couches de notre histoire personnelle
+- L'activation est souvent inconsciente et implique des dynamiques entre les couches
+- Lorsqu'elle est activée, nous sommes poussés par des comportements inconscients et défensifs (c'est là que nous rencontrons des problèmes)
+:::
+
+## Awareness of activation / Conscience de l'activation
+::: {.panel-tabset group="language"}
+### English
+- Making our own activation conscious is the path to awareness and healing
+- _One does not become enlightened by imagining figures of light, but by making the darkness conscious_ — Jung
+- This is the path that we find in myth and storytelling
+
+### Français
+- Rendre notre propre activation consciente est le chemin de la conscience et de la guérison
+- _On ne devient pas éclairé en imaginant des figures de lumière, mais en rendant les ténèbres conscientes_ — Jung
+- C'est le chemin que l'on trouve dans les mythes et les récits
+:::
+
+## Observe Yourself / Observez-vous
+::: {.panel-tabset group="language"}
+### English
+- Your ability to be continually aware of your own emotional activation is the most important factor in determining the outcomes of emotional conversations with others
+- The skill of turning your attention inward — _how am I feeling, what am I thinking, what’s happening for me_ — requires much practice and consistent attention
+
+### Français
+- Votre capacité à être continuellement conscient de votre propre activation émotionnelle est le facteur le plus important pour déterminer les résultats des conversations émotionnelles avec les autres
+- La compétence consistant à diriger votre attention vers l'intérieur — _comment je me sens, ce que je pense, ce qui m'arrive_ — nécessite beaucoup de pratique et d'attention constante
+:::
+
+## Watch for your activation / Surveillez votre activation
+::: {.panel-tabset group="language"}
+### English
+- We all get activated emotionally, by many different things, and sometimes in unexpected ways
+- We tend to feel that our activation happens because of what others do
+- The reality is that our activation happens entirely inside of us — and is our responsibility to notice and address
+
+### Français
+- Nous sommes tous activés émotionnellement, par de nombreuses choses différentes, et parfois de manière inattendue
+- Nous avons tendance à penser que notre activation se produit à cause de ce que font les autres
+- En réalité, notre activation se produit entièrement en nous — et c'est notre responsabilité de la remarquer et de la gérer
+:::
+
+## Get yourself out of the way / Écartez-vous du chemin
+::: {.panel-tabset group="language"}
+### English
+- The most effective listeners and helpers take responsibility for their own emotions and try to keep them out of the way (or bring them forward appropriately) in conversations with others
+- With practice, you can suspend your own activation and judgement and deal with it at a later time
+
+### Français
+- Les auditeurs et aides les plus efficaces assument la responsabilité de leurs propres émotions et essaient de les écarter (ou de les exprimer de manière appropriée) dans les conversations avec les autres
+- Avec de la pratique, vous pouvez suspendre votre propre activation et jugement et y faire face plus tard
+:::
+
+## Risks of harm / Risques de préjudice
+::: {.panel-tabset group="language"}
+### English
+- When we become emotionally activated beyond our ability to manage or contain, we run the risk of harming others — even when we are trying to help them
+- We also harm ourselves when we do not deal with strong emotions in our lives
+- Finding pathways to address and resolve the challenges of our emotional life is one of the most important things we can do
+
+### Français
+- Lorsque nous devenons émotionnellement activés au-delà de notre capacité à gérer ou contenir, nous risquons de nuire aux autres — même lorsque nous essayons de les aider
+- Nous nous faisons également du tort lorsque nous ne traitons pas les émotions fortes dans notre vie
+- Trouver des moyens d'aborder et de résoudre les défis de notre vie émotionnelle est l'une des choses les plus importantes que nous puissions faire
+:::
+
+## Ask yourself: / Demandez-vous :
+::: {.panel-tabset group="language"}
+### English
+- What do I carry?
+- What do I embody?
+- What do I follow?
+- What do I need?
+
+### Français
+- Qu'est-ce que je porte ?
+- Qu'est-ce que j'incarne ?
+- Qu'est-ce que je suis ?
+- De quoi ai-je besoin ?
+:::
+
+## Work on it. / Travaillez dessus.
+::: {.panel-tabset group="language"}
+### English
+And keep working on it.
+
+### Français
+Et continuez à y travailler.
+:::
+
+## Practice / Pratique
+::: {.panel-tabset group="language"}
+### English
+[[Remember]{.button}](#sec-practice)
+
+- [No questions]{.alert} from the listener
+- [No advice]{.alert} from the listener
+- [No interruptions]{.alert} from the listener or observer
+
+### Français
+[[Souviens-toi]{.button}](#sec-practice)
+
+- [Pas de questions]{.alert} de la part de l'auditeur
+- [Pas de conseils]{.alert} de la part de l'auditeur
+- [Pas d'interruptions]{.alert} de la part de l'auditeur ou de l'observateur
+:::
+
+# Strategy and Tactics / Stratégie et tactiques {background-color="#40666e"}
+
+## Strategy and tactics / Stratégie et tactiques
+::: {.panel-tabset group="language"}
+### English
+- Be open and available
+- Body language is the main way that we indicate our openness to others
+- We are acutely sensitive to the small signals that others send to us about their availability for conversation or assistance
+- When we practice presence, grounding, authenticity, and neutrality, we tend to signal that we are open, approachable, and positive
+
+### Français
+- Soyez ouvert et disponible
+- Le langage corporel est le principal moyen par lequel nous indiquons notre ouverture aux autres
+- Nous sommes extrêmement sensibles aux petits signaux que les autres nous envoient sur leur disponibilité pour une conversation ou une aide
+- Lorsque nous pratiquons la présence, l'ancrage, l'authenticité et la neutralité, nous avons tendance à signaler que nous sommes ouverts, accessibles et positifs
+:::
+
+## Pacing and rhythm / Rythme et cadence
+::: {.panel-tabset group="language"}
+### English
+- Watch for dissociation, freezing, anxiety, anger (trauma responses)
+- Know when to engage
+- Timing is hard; outcomes are tough to predict
+
+### Français
+- Surveillez la dissociation, le gel, l'anxiété, la colère (réponses au traumatisme)
+- Sachez quand intervenir
+- Le timing est difficile ; les résultats sont difficiles à prévoir
+:::
+
+## Watch for the vortex / Surveillez le vortex
+::: {.panel-tabset group="language"}
+### English
+- The trauma vortex is a metaphor for describing emotional states — intense, overwhelming, overpowering emotional states — that are beyond conscious control
+- In these situations, the body just takes over
+- Helping someone who has fallen into the trauma vortex typically requires a calm, attentive presence
+- Physical safety and comfort are the priorities
+- The body needs to feel safe enough to yield control back to the thinking mind
+
+### Français
+- Le vortex du traumatisme est une métaphore pour décrire des états émotionnels — intenses, accablants, irrésistibles — qui échappent au contrôle conscient
+- Dans ces situations, le corps prend simplement le dessus
+- Aider quelqu'un tombé dans le vortex du traumatisme nécessite généralement une présence calme et attentive
+- La sécurité physique et le confort sont les priorités
+- Le corps doit se sentir suffisamment en sécurité pour céder le contrôle à l'esprit rationnel
+:::
+
+## Act during the pause / Agissez pendant la pause
+::: {.panel-tabset group="language"}
+### English
+- Sliding into the trauma vortex does not happen immediately; emotional activation builds over time
+- Typically there is an observable moment when the activation shifts from being manageable to being overwhelming
+- This moment almost always involves the slowing down of speech, then a pause of a few seconds
+- Not all pauses in speech are trauma signals — but signals of the impending trauma vortex almost always include a pause
+- If we engage with a person in distress at any time up to the pause, we can often help them avoid the trauma vortex
+
+### Français
+- Glisser dans le vortex du traumatisme ne se produit pas immédiatement ; l'activation émotionnelle se construit au fil du temps
+- Il y a généralement un moment observable où l'activation passe d'une situation gérable à une situation accablante
+- Ce moment implique presque toujours un ralentissement de la parole, suivi d'une pause de quelques secondes
+- Toutes les pauses dans le discours ne sont pas des signaux de traumatisme — mais les signaux du vortex imminent incluent presque toujours une pause
+- Si nous engageons une personne en détresse à tout moment avant la pause, nous pouvons souvent l'aider à éviter le vortex du traumatisme
+:::
+
+## Beyond the pause / Au-delà de la pause
+::: {.panel-tabset group="language"}
+### English
+- The pause is the last moment at which talking alone can help to bring a person back to emotional safety
+- Once that moment has passed, the nature of our assistance changes from conversation (in the space where the emotional activation is happening) to physical action (escorting a person to a safe space where they can rest and recover)
+
+### Français
+- La pause est le dernier moment où parler seul peut aider une personne à retrouver une sécurité émotionnelle
+- Une fois ce moment passé, la nature de notre assistance passe de la conversation (dans l'espace où l'activation émotionnelle se produit) à une action physique (accompagner une personne vers un espace sûr où elle peut se reposer et récupérer)
+:::
+
+## Guide by walking / Guidez en marchant
+::: {.panel-tabset group="language"}
+### English
+- The discharge of emotional activation is often facilitated by the act of walking
+- Whenever possible, ask a person to walk with you — especially if the walking leads toward a place of safety
+- Sometimes, just walking around a contained space (such as a gallery) can work just as well
+
+### Français
+- La décharge de l'activation émotionnelle est souvent facilitée par l'acte de marcher
+- Dans la mesure du possible, demandez à une personne de marcher avec vous — surtout si la marche mène vers un endroit sûr
+- Parfois, simplement marcher dans un espace clos (comme une galerie) peut tout aussi bien fonctionner
+:::
+
+## Trauma-informed language (1) / Langage tenant compte du traumatisme (1)
+::: {.panel-tabset group="language"}
+### English
+- Please take care of yourself
+- You decide how much to engage
+- If you need a break, go _here_
+- Let me show you
+- Strong reactions are normal
+
+### Français
+- Prenez soin de vous
+- Vous décidez du niveau d'engagement
+- Si vous avez besoin d'une pause, allez _ici_
+- Laissez-moi vous montrer
+- Les réactions fortes sont normales
+:::
+
+## Trauma-informed language (2) / Langage tenant compte du traumatisme (2)
+::: {.panel-tabset group="language"}
+### English
+- Your reactions are unique to you
+- It’s OK to be emotional
+- I will stay with you
+- Do what works for you
+- Tell me what you need
+
+### Français
+- Vos réactions vous sont propres
+- C'est normal d'être émotif
+- Je resterai avec vous
+- Faites ce qui fonctionne pour vous
+- Dites-moi ce dont vous avez besoin
+:::
+
+## Stay until safe / Restez jusqu'à ce que ce soit sûr
+::: {.panel-tabset group="language"}
+### English
+- When a person is emotionally activated, it takes some time for the body to cycle through the experience
+- Typically, 5 to 15 minutes
+- Whenever possible, stay with a person for at least this amount of time
+- You don’t have to talk the whole time
+- Often, just being with a person, in companionable silence, can be enough
+
+### Français
+- Lorsqu'une personne est activée émotionnellement, le corps met un certain temps à traiter l'expérience
+- En général, 5 à 15 minutes
+- Dans la mesure du possible, restez avec une personne pendant au moins cette durée
+- Vous n'avez pas besoin de parler tout le temps
+- Souvent, être simplement avec une personne, dans un silence complice, peut suffire
+:::
+
+## Signals of safety / Signaux de sécurité
+::: {.panel-tabset group="language"}
+### English
+If the following signals are not present, back off or get help:
+
+- Parasympathetic activation (eyes focused, breathing quieted, skin flushing resolved)
+- Eye contact (highly dependent on cultural and social factors)
+- Boundary setting through body language
+- Settling, breathing, adjusting
+
+### Français
+Si les signaux suivants ne sont pas présents, reculez ou demandez de l'aide :
+
+- Activation parasympathique (yeux concentrés, respiration apaisée, rougeurs cutanées résolues)
+- Contact visuel (très dépendant des facteurs culturels et sociaux)
+- Établissement de limites par le langage corporel
+- Apaisement, respiration, ajustement
+:::
+
+## Going for insight (or not) / Viser l'insight (ou pas)
+::: {.panel-tabset group="language"}
+### English
+- Probably not; insights work best when they emerge from the other person (not from you)
+- Resist the temptation to be insightful
+- Instead of seeking insight, seek clarity (insight tends to be about the past, whereas clarity is about what's happening now)
+- On the other hand, insight is the main driver of personal growth (via self-awareness), so insight _is_ important — but it shouldn't come from you
+
+### Français
+- Probablement pas ; les insights fonctionnent mieux lorsqu'ils émergent de l'autre personne (pas de vous)
+- Résistez à la tentation d'être perspicace
+- Au lieu de chercher l'insight, recherchez la clarté (l'insight a tendance à concerner le passé, tandis que la clarté concerne ce qui se passe maintenant)
+- En revanche, l'insight est le principal moteur de la croissance personnelle (via la conscience de soi), donc l'insight _est_ important — mais il ne devrait pas venir de vous
+:::
+
+## Practice / Pratique
+::: {.panel-tabset group="language"}
+### English
+[[Remember]{.button}](#sec-practice)
+
+- [No questions]{.alert} from the listener
+- [No advice]{.alert} from the listener
+- [No interruptions]{.alert} from the listener or observer
+
+### Français
+[[Souviens-toi]{.button}](#sec-practice)
+
+- [Pas de questions]{.alert} de la part de l'auditeur
+- [Pas de conseils]{.alert} de la part de l'auditeur
+- [Pas d'interruptions]{.alert} de la part de l'auditeur ou de l'observateur
+:::
+
+# Advanced skills / Compétences avancées  {background-color="#40666e"}
+
+## Advanced skills / Compétences avancées
+::: {.panel-tabset group="language"}
+### English
+#### Minimize self-disclosure
+- Your story is not their story; your solutions are not their solutions
+- And yet, self-disclosure is very hard to resist; it has a curious power
+- Sometimes self-disclosure can be useful (e.g., veterans) but usually it is not
+- Self-disclosure makes the conversation about you
+- You can't put your disclosure back in the bag (and it can be used in ways you do not intend and/or do not like)
+
+### Français
+#### Minimisez les auto-divulgations
+- Votre histoire n'est pas leur histoire ; vos solutions ne sont pas leurs solutions
+- Pourtant, il est très difficile de résister à l'auto-divulgation ; elle a un pouvoir curieux
+- Parfois, l'auto-divulgation peut être utile (par exemple, chez les anciens combattants), mais en général, elle ne l'est pas
+- L'auto-divulgation rend la conversation centrée sur vous
+- Vous ne pouvez pas retirer votre divulgation une fois faite (et elle peut être utilisée d'une manière que vous ne prévoyez pas et/ou n'appréciez pas)
+:::
+
+## Answering queries about self-disclosure / Répondre aux questions sur l'auto-divulgation
+::: {.panel-tabset group="language"}
+### English
+- Option 1: Happy to talk about it later; let's get you safe first
+- Option 2: It's complicated... (prepare an answer in advance, in the expectation that you will be asked)
+- Option 3: I don't talk about that in this setting
+
+### Français
+- Option 1 : Je serai ravi d'en parler plus tard ; concentrons-nous d'abord sur votre sécurité
+- Option 2 : C'est compliqué... (préparez une réponse à l'avance, en prévision de cette question)
+- Option 3 : Je ne parle pas de cela dans ce cadre
+:::
+
+## Culture, lifestyle, values / Culture, mode de vie, valeurs
+::: {.panel-tabset group="language"}
+### English
+- Everyone has unique experiences; culture is not monolithic
+- Observe yourself
+- Watch for your activation
+- Listen
+- Practice grounding
+- Breathe
+- Choose when and how to respond (not from reactivity, ideally)
+
+### Français
+- Chacun a des expériences uniques ; la culture n'est pas monolithique
+- Observez-vous
+- Surveillez votre activation
+- Écoutez
+- Pratiquez l'ancrage
+- Respirez
+- Choisissez quand et comment répondre (idéalement, pas dans la réactivité)
+:::
+
+## Advocacy / Plaidoyer
+::: {.panel-tabset group="language"}
+### English
+- Decide when to advocate or educate (not in the moment of crisis)
+- Empathic responding can include educating the other
+- Effective advocacy is grounded in empathy
+- Rationality, argument, and education play minor roles
+- Social justice themes carry a lot of emotional charge; the intensity of that charge typically needs to be processed before problem-solving discussions or advocacy can occur
+
+### Français
+- Décidez quand plaider ou éduquer (pas dans le moment de crise)
+- Une réponse empathique peut inclure l'éducation de l'autre
+- Un plaidoyer efficace est ancré dans l'empathie
+- La rationalité, les arguments et l'éducation jouent des rôles mineurs
+- Les thèmes de justice sociale portent une forte charge émotionnelle ; l'intensité de cette charge doit généralement être traitée avant les discussions sur la résolution de problèmes ou le plaidoyer
+:::
+
+## Small moments / Petits moments
+::: {.panel-tabset group="language"}
+### English
+- Small moments of human interaction are what drive larger changes in cultures and societies (in dynamical systems theory)
+- Small moments of connection are the foundations of emotional support
+- Personal growth and change are best measured by small moments
+
+### Français
+- Les petits moments d'interaction humaine sont ce qui entraîne de plus grands changements dans les cultures et les sociétés (dans la théorie des systèmes dynamiques)
+- Les petits moments de connexion sont les bases du soutien émotionnel
+- La croissance personnelle et le changement se mesurent le mieux par de petits moments
+:::
+
+## Considerations for questions / Considérations pour les questions
+::: {.panel-tabset group="language"}
+### English
+- Does it deepen their process or yours?
+- Questions should clarify and deepen the experience of the other person
+- If you can get there without a question, do it
+- If you ask questions, use a rough ratio of 5:1
+- It’s sometimes OK to tell people where to look — but rarely is it helpful to tell them what to see (ecological dynamics)
+
+### Français
+- Cela approfondit-il leur processus ou le vôtre ?
+- Les questions doivent clarifier et approfondir l'expérience de l'autre personne
+- Si vous pouvez y parvenir sans poser de question, faites-le
+- Si vous posez des questions, utilisez un ratio approximatif de 5:1
+- Il est parfois acceptable de dire aux gens où chercher — mais il est rarement utile de leur dire quoi voir (dynamique écologique)
+:::
+
+## Asking questions (1) / Poser des questions (1)
+::: {.panel-tabset group="language"}
+### English
+- What do you need?
+- What do you want to do?
+- What happens next?
+- Would you like some feedback?
+- How are you feeling?
+
+### Français
+- De quoi avez-vous besoin ?
+- Que voulez-vous faire ?
+- Que se passe-t-il ensuite ?
+- Aimeriez-vous un retour d'information ?
+- Comment vous sentez-vous ?
+:::
+
+## Asking questions (2) / Poser des questions (2)
+::: {.panel-tabset group="language"}
+### English
+- Don't ask “Have you considered?…”
+- Don't ask “Are you OK?”
+
+### Français
+- Ne demandez pas « Avez-vous envisagé ?... »
+- Ne demandez pas « Ça va ? »
+:::
+
+## Practice / Pratique
+::: {.panel-tabset group="language"}
+### English
+[[Remember]{.button}](#sec-practice)
+
+- [Questions]{.alert} allowed for the listener!
+- [No advice]{.alert} from the listener
+- [No interruptions]{.alert} from the listener or observer
+
+### Français
+[[Souviens-toi]{.button}](#sec-practice)
+
+- [Questions]{.alert} autorisées pour l'auditeur !
+- [Pas de conseils]{.alert} de la part de l'auditeur
+- [Pas d'interruptions]{.alert} de la part de l'auditeur ou de l'observateur
+:::
+
+# Supporting organizations and cultures / Soutenir les organisations et les cultures{background-color="#40666e"}
+
+## Supporting organizations and cultures / Soutenir les organisations et les cultures
+::: {.panel-tabset group="language"}
+### English
+#### Belonging
+The most important and foundational feeling
+
+- You belong here
+- I'm glad you're here
+- This is your place
+- This is our place
+
+### Français
+#### Appartenance
+Le sentiment le plus important et fondamental
+
+- Vous appartenez ici
+- Je suis content que vous soyez ici
+- C'est votre place
+- C'est notre place
+:::
+
+## Trust and safe people / Confiance et personnes sûres
+::: {.panel-tabset group="language"}
+### English
+The pathway to change and growth
+
+- I/we will help you
+- How can I/we help you?
+- What do you need?
+- Here’s what I/we need; can we meet halfway?
+
+### Français
+Le chemin vers le changement et la croissance
+
+- Je/nous vous aiderai(ons)
+- Comment puis-je/pouvons-nous vous aider ?
+- De quoi avez-vous besoin ?
+- Voici ce dont j'ai/nous avons besoin ; pouvons-nous trouver un compromis ?
+:::
+
+## Safe space / Espace sécurisé
+::: {.panel-tabset group="language"}
+### English
+A reminder of commitment
+
+- Explore and enjoy
+- Ask, share, and hear
+- Express yourself
+- We express ourselves
+- Find the limit (with help)
+
+### Français
+Un rappel d'engagement
+
+- Explorez et profitez
+- Demandez, partagez et écoutez
+- Exprimez-vous
+- Nous nous exprimons
+- Trouvez la limite (avec aide)
+:::
+
+## Empowerment / Autonomisation
+::: {.panel-tabset group="language"}
+### English
+#### The signal of individuality
+
+- How can we empower you?
+- We will stand in
+- Strong emotion is OK
+- Boundaries make us all safe
+- Empowerment is relationship
+
+### Français
+#### Le signal de l'individualité
+
+- Comment pouvons-nous vous responsabiliser ?
+- Nous interviendrons
+- Une émotion forte est acceptable
+- Les limites nous rendent tous en sécurité
+- L'autonomisation est une relation
+:::
+
+## Links / Liens
+::: {.panel-tabset group="language"}
+### English
+
+This document is available at [https://rosslaird.github.io/CMH-visitor-services-2025/CMH-visitor-services-2025.html](https://rosslaird.github.io/CMH-visitor-services-2025/CMH-visitor-services-2025.html)
+
+[rosslaird.com](https://rosslaird.com)
+
+### Français
+[rosslaird.com](https://rosslaird.com)
+:::
